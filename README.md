@@ -1,4 +1,5 @@
-WB Anti‑Fake Bot
+<img width="554" height="728" alt="изображение" src="https://github.com/user-attachments/assets/12cf8e63-f6f3-45b4-b11c-8454bd64b7b0" />
+
 
 Телеграм‑бот принимает ссылку/артикул Wildberries и за ~3 секунды показывает:
 - **Trust Score** (эвристики накрутки/подозрительности)
@@ -12,3 +13,4 @@ WB Anti‑Fake Bot
 - ссылку вида `https://www.wildberries.ru/...`
 - или просто артикул.
 
+- получите детализированный ответ от бота, насколько можно доверять оценкам на товар.
